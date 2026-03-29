@@ -24,4 +24,4 @@ I'm Currently Learning React js and react native.
 ---
 [![](https://visitcount.itsvg.in/api?id=Aakashpuri786&icon=6&color=8)](https://visitcount.itsvg.in)
 
-### visit my portfolio: https://aakashpuree-portfolio.vercel.com
+### visit my portfolio: https://aakashpuree-portfolio.vercel.app

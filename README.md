@@ -1,5 +1,5 @@
-# 💫 About Me:
-### Hii 👋 I'm <b>Aakash Puri</b><br>
+### 💫 About Me:
+## Hii 👋 I'm <b>Aakash Puri</b><br>
 #### 💫 About Me:  I'm Currently Working on Mobile App Development<br>
 ####   and Full Stack Development .<br>
 I'm Currently Learning React js and react native.

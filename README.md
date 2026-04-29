@@ -13,6 +13,8 @@ I'm Currently Learning React js and react native.
 
 ## 🏆 GitHub Trophies
 ![](https://aakashpuree-portfolio.vercel.app/?username=aakashpuree&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aakashpuree)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aakashpuree&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
